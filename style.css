@@ -129,6 +129,7 @@
                 flex-direction: column;
                 align-items: center;
                 justify-content: center;
+                color: #436a7d;
             }
             .about-item h2, .about-item p {
                 display: inline-block;
