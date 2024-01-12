@@ -64,6 +64,7 @@
                 margin-right: auto;}
                 /*撐開中間的距離*/
             
+             
 
             header a {
                 color: #324F5E;
@@ -306,6 +307,14 @@
                 text-indent: -999px;
             }
 
+            /* h1.Logo 01 {
+                width: 50px;
+                background-image: url(image/logo.png);
+                background-size: cover;
+                overflow: hidden;
+                text-indent: -999px;
+            } */
+
             .logo a {
                 display: block;
                 width: 60px;
@@ -313,6 +322,8 @@
             }
 
             footer {
+                padding-top: 40px;
+                padding-left: 100px;
                 width: 100%;
                 background: hsl(0, 0%, 55%);
                 height: 150px;
